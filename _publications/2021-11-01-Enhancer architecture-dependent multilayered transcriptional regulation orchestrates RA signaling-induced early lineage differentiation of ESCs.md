@@ -9,4 +9,4 @@ paperurl: 'http://hemiao96/zhaoxueyuan/files/Enhancer architecture-dependent mul
 citation: 'Su, Guangsong, et al. "Enhancer architecture-dependent multilayered transcriptional regulation orchestrates RA signaling-induced early lineage differentiation of ESCs." Nucleic acids research 49.20 (2021): 11575-11595.'
 ---
 
-[Download paper here](http://hemiao96.github.io/files/The Degree of Purification of mRNA Influences the Fragmentation for Construction Transcriptome Libraries of Populus.pdf)
+[Download paper here](http://XueYuan-Zhao.github.io/files/Enhancer architecture-dependent multilayered transcriptional regulation orchestrates RA signaling-induced early lineage differentiation of ESCs.pdf)
